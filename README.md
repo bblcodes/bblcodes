@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm bblCodes
 
-<!--
-**bblcodes/bblcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer
+learning to build useful software
+and solve real world problems.
 
-Here are some ideas to get you started:
+### Currently learning
+-python and backend development
+-javaScript and web development
+-Git and GitHub
+-AI development and automation
+-Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Current project
+-Dev plus - a developer workspace and AI platform in progress
+-Python Practice - projects to
+strengthen my programming skills
+
+### MY Goal
+To become an independent workspace and AI
+build technology that makes people's
+liver easier
+
+### Find Me 
+GitHub
+[@bblcodes](https://github.com/bblcodes)
